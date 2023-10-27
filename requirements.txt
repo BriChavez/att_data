@@ -1,3 +1,5 @@
 pandas
 jupyter
 datetime
+matplotlib
+tensorflow
